@@ -22,6 +22,6 @@ MainActivity
 
 проверяем работу
 
-<img src="10.JPG"></img>
+<img src="10.jpg"></img>
 
 <img src="2.JPG"></img>
